@@ -35,7 +35,7 @@
     "shortName": "IoT Control Watch",
     "uuid": "665500e5-7b52-4da4-bf14-c3fdb20107a4",
     "versionCode": 1,
-    "versionLabel": "1.1",
+    "versionLabel": "1.11",
     "watchapp": {
         "watchface": false
     }

@@ -49,7 +49,7 @@ function DoPost(function_name,function_value){
       
     }
   );
-  
+}
 function DoGet(function_name){
   console.log("DoGet(): " + new Date().getTime());  
   
